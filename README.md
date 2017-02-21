@@ -5,6 +5,9 @@ You could use this application, for example, for routing MIDI from one synthesiz
 
 ![MR-ScreenShot](/images/midirouter-screenshot.png?raw=true)
 
+[Download MIDIroute 1.0](https://github.com/icaroferre/MIDIRouter/releases/download/1.0/MIDIrouter.zip)
+
+
 Developed by Ícaro Ferre (@icaroferre)
 
 Spektro Audio
