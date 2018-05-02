@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['midirouter.py'],
-             pathex=['/Users/icaroferre/Documents/PycharmProjects/midiRouter'],
+             pathex=['/Users/icaroferre/Dropbox/Work/GitHub/MIDIRouter'],
              binaries=[],
              datas=[],
              hiddenimports=[],
